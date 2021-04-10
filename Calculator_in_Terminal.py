@@ -1,3 +1,5 @@
+# pyraminx123
+
 print("""The operators allowed are:
 + for addition
 - for substraction
